@@ -1,5 +1,6 @@
 # ST1_TAXIS
 1er projet apprentissage Streamlit
+Lien http://localhost:8501/
 Vous changerez la variable PRENOM du titre par votre prénom à vous.
 
 Vous utiliserez le dataset taxis
