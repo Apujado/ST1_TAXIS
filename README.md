@@ -1,6 +1,6 @@
 # ST1_TAXIS
 1er projet apprentissage Streamlit
-Lien http://localhost:8501/
+Code dans le fchier .py pour streamlit
 
 Vous changerez la variable PRENOM du titre par votre prénom à vous.
 
